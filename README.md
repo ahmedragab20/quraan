@@ -1,29 +1,5 @@
 # quraan
 
-## Project setup
-```
-yarn install
-```
+## this is just a demo for the project
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- that's why I installed jest and pwa and router in case I'll scale the project in the future!
